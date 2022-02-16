@@ -25,7 +25,7 @@
 
   ## Modo de preparo :notebook_with_decorative_cover:
 
-          ### Carne
+  ### Carne
 
   - Corte a carne selecionada em tirinhas, tempere com a pimenta, o cominho e o sal (coloco 1 ou 2 pitadas de cada, no máximo).
   - Deixe a carne descansar por 20 minutos para apurar o gosto.
