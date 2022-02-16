@@ -33,7 +33,7 @@
   - Comece a fritura com poucas tirinhas para que o óleo não vire uma sopa, retire-as e reserve.
   - Não deixe fritar muito para que a carne não fique dura
 
-  ## Molho
+  ### Molho
 
   - Troque o óleo da panela e refogue a cebola ralada.
   - Depois de dourada, jogue todas as tirinhas de carne dentro da panela e mexa.
